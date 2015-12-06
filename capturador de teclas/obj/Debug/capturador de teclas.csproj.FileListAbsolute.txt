@@ -1,0 +1,9 @@
+D:\capturador de teclas\capturador de teclas\bin\Debug\capturador de teclas.exe.config
+D:\capturador de teclas\capturador de teclas\bin\Debug\capturador de teclas.exe
+D:\capturador de teclas\capturador de teclas\bin\Debug\capturador de teclas.pdb
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador de teclas.csprojResolveAssemblyReference.cache
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador_de_teclas.Form1.resources
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador_de_teclas.Properties.Resources.resources
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador de teclas.csproj.GenerateResource.Cache
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador de teclas.exe
+D:\capturador de teclas\capturador de teclas\obj\Debug\capturador de teclas.pdb
